@@ -19,7 +19,6 @@ const ShowBook = () => {
         // console.log("ID:", response.data.book._id);
         // console.log("Title:", response.data.title);
         // console.log("Author:", response.data.author);
-
         setLoading(false);
       })
       .catch((error) => {
