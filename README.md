@@ -10,3 +10,5 @@ Learned and implemented the following:
 - MongoDB operations
 - Frontend CRUD
 - Frontend Router
+
+Project link: https://mernbookstore.netlify.app
